@@ -1,6 +1,5 @@
 ---
 share: true
-title: index-obsidian
 ---
 
 # index-obsidian
@@ -10,6 +9,7 @@ created: 2022-10-06
 
 - [[obsidian to github]]
 - [[템플릿 사용]]
+- [[frontmatter 설정]]
 
 
 ## 목차 구성
