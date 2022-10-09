@@ -1,6 +1,5 @@
 ---
 share: true
-title: index-자료구조
 ---
 
 # index-자료구조
